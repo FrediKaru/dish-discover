@@ -8,9 +8,11 @@ Live Demo: https://dish-discover.pages.dev/
 
 📅 Key Features:
 
+- Sign up for new account
 - Display recipes retrieved from an external API
 - Search for recipes by name or ingredients
 - Save favorite recipes to a personal "wishlist"
+- Drag and drop recipes between multiple wishlists
 - Add recipes to a shopping list
 - Shopping list automatically sums up ingredients for easier grocery planning
 
